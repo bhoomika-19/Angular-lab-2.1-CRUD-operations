@@ -1,0 +1,5 @@
+[
+    {"id":1001,"name":"Rahul","salary":9000,"department":"Java"},
+    {"id":1002,"name":"Sachin","salary":19000,"department":"OraApps"},
+    {"id":1003,"name":"Vikash","salary":29000,"department":"BI"}
+    ]
