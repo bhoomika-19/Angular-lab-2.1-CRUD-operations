@@ -11,6 +11,11 @@ if (environment.production) {
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.error(err));
 
+
+  // hello hello hi
+
   //writing oto override the code
 
-  /*hi hello.   */
+  /*hi hello.  hi */
+
+
